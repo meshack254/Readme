@@ -1,12 +1,4 @@
-# Readme
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left"></p>
-
-###
-
+<h1>Hello there,</h1>
 <h2 align="left">About me</h2>
 
 ###
