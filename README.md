@@ -1,4 +1,3 @@
-<h1>Hello there,</h1>
 <h2 align="left">About me</h2>
 
 ###
@@ -12,8 +11,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="7" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency-systems-regular/48/nextjs.png" alt="nextjs"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,6 +28,7 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+
 </div>
 
 ###
