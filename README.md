@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Toolapalooza: My growing arsenal.</h2>
+<h2 align="left">My growing arsenal.</h2>
 
 ###
 
