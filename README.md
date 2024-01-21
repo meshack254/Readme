@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Rust<br>🎯 Goals: Get really good at full-stack dev.<br>🎲 Fun fact: Am broke because I used up all my cache</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently building with Next.js & learning Rust<br>🎯 Goals: Get really good at full-stack dev.<br>🎲 Fun fact: Am broke because I used up all my cache</p>
 
 ###
 
